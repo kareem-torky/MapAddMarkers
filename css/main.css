@@ -1,0 +1,10 @@
+.container {
+    width: 50%;
+    height: 500px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
