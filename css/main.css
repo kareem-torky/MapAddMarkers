@@ -1,8 +1,12 @@
 .container {
     width: 50%;
-    height: 500px;
+    height: 450px;
     background-color: aqua;
     margin: 0 auto;
+}
+
+.header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .center {
